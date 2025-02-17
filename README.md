@@ -1,6 +1,5 @@
 # Car-Price-Prediction
 Predicting Car Prices using Linear Regression 
-# Car Price Prediction
 
 ## Overview
 This project predicts car prices using machine learning techniques. By analyzing various car features like horsepower, torque, age, and top speed, the model can estimate the current market price of a vehicle.
